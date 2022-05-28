@@ -126,3 +126,7 @@ h3 {
 .hero-form label {
     margin: 0 5px;
 }
+
+.intro {
+    text-align: center;
+}
